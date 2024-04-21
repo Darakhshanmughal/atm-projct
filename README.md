@@ -1,2 +1,2 @@
-# atm-projct
-this is a simple atm project.
+# cli-number-guessing
+this is cli based number guessing game
